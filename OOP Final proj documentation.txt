@@ -1,0 +1,18 @@
+﻿The Online Shopping System simulates how a real online store works. It allows users to browse products, add them to a shopping cart, and place orders. There’s also an optional admin who manages the products and users. All information (like users, products, and orders) can be saved to text files.
+Main Features
+1. User Management
+   * Users can register and log in.
+   * Each user has personal info and purchase history.
+2. Product Management
+   * Admin can add, update, or remove products.
+   * Users can view available products.
+3. Shopping Cart
+   * Users can add, remove, or view items in their cart.
+4. Order Management
+   * Users can checkout and confirm their purchase.
+   * System generates a receipt or order summary.
+5. Payment System (Optional)
+   * Simulated payment process.
+6. Data Storage
+   * Save user data, products, and orders in text files.
+________________
