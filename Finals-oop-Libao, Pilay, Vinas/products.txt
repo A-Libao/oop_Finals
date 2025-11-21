@@ -1,0 +1,1 @@
+2,laptop,amd ryzen 420 rtx 8080,450.0
