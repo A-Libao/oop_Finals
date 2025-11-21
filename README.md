@@ -45,7 +45,9 @@ Polymorphism means "many forms." It allows a single command to execute different
 
 - If entity is an Order, the system automatically executes the toString() method in Order.java to serialize the order data (ID, user ID, product IDs, total, status).
 - If entity is a Product, the system executes the toString() method in Product.java to serialize the product data (ID, name, description, price).
-
+  
+- The DataManager doesn't need to check the object type; it just issues the toString() command, and the object itself knows which specialized version of the method to execute. This makes the persistence logic highly flexible and clean.
+  
 *Note lang po sir, since this is the only device that we(Libao,Pilay and Vinas) are using po because we are doing the code offline(together po kame gumagawa in the house of Pilay, Justine po), Thank you po* 
 
-- The DataManager doesn't need to check the object type; it just issues the toString() command, and the object itself knows which specialized version of the method to execute. This makes the persistence logic highly flexible and clean.
+
