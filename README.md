@@ -48,6 +48,6 @@ Polymorphism means "many forms." It allows a single command to execute different
   
 - The DataManager doesn't need to check the object type; it just issues the toString() command, and the object itself knows which specialized version of the method to execute. This makes the persistence logic highly flexible and clean.
   
-*Note lang po sir, since this is the only device that we(Libao,Pilay and Vinas) are using po because we are doing the code offline(together po kame gumagawa in the house of Pilay, Justine po), Thank you po* 
+*Note lang po sir, since this is the only device that we(Libao,Pilay and Vinas) are using po because we are doing the final project offline(together po kame gumagawa in the house of Pilay, Justine po), Thank you po* 
 
 
