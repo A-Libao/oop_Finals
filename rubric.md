@@ -26,8 +26,20 @@ The project shows solid OOP principles but could benefit from more extensive inh
 ### 4. Base Grade (10%)
 **Score:** 5/5
 
+### 5. Extra Points (up to 6)
+
+**Features:** 3/5
+- File saving
+- UI Swing
+
+**Code Quality:** 1.0/1.0
+- Variable naming: 0.5/0.5
+- Code organization: 0.5/0.5
+
+**Extra Points Total:** +4.0
+
 ---
 
-## Final Grade: 83/100
+## Final Grade: 83 + 4.0 = **87/100**
 
 *Assessment generated based on project analysis.*
